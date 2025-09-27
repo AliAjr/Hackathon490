@@ -71,3 +71,4 @@ Librairies used:(all are in the requirements file)
 -scikit-learn
 -kagglehub
 
+Deployed puiblic link: https://hackathon490-uwfxjw7gqrebwcznh8vqnc.streamlit.app/

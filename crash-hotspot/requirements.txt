@@ -1,6 +1,0 @@
-streamlit
-pandas
-numpy
-pydeck
-scikit-learn
-kagglehub

@@ -1,5 +1,5 @@
 # ============================================================
-# Crash Hotspot Planner - Streamlit Interface (Auto-generate CSV Version)
+# Crash Hotspot Planner - Streamlit Interface
 # ============================================================
 import streamlit as st
 import pandas as pd
@@ -180,3 +180,4 @@ st.subheader("All Candidates (ranked by cost-effectiveness)")
 st.dataframe(df.sort_values("ratio", ascending=False)[[
     "segment_id", "Risk_Level", "intervention", "cost", "Effectiveness_Label", "Reason"
 ]].reset_index(drop=True))
+

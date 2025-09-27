@@ -63,7 +63,7 @@ Key files
 How to run / test
 first, run the 'Hotspot_crash_prediction_universal.py' file to get a the predictions file. Then run the 'interface.py' file and drag the prediction file to get the result.
 
-Librairies used:
+Librairies used:(all are in the requirements file)
 -streamlit
 -pandas
 -numpy
